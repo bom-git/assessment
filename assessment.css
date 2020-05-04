@@ -1,0 +1,16 @@
+body{
+    background-color: cornflowerblue;
+    color: blanchedalmond;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button{
+    padding: 5px 20px;
+    background-color: darkgreen;
+    color: blanchedalmond;
+    border-style: none;
+}
+input{
+    height: 20px;
+}
